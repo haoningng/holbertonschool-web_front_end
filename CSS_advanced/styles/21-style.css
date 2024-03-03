@@ -189,7 +189,7 @@ ul.row {
     clear: both;
 }
 
-a[href^="col-"] {
+[class^="col-"] {
     float: left;
     padding: 0.5rem;
 }
